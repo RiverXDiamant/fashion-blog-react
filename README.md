@@ -6,4 +6,4 @@
  <br />
  ~ <a href="https://riverxdiamant.github.io/fashion-blog-html/">Github Pages</a>
  <br/>
- ~ <a href="https://github.com/RiverXDiamant/fashion-blog-html">HTML Version</a>
+ ~ <a href="https://github.com/RiverXDiamant/fashion-blog-html">Github HTML Repo</a>
