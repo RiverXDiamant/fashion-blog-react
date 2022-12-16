@@ -1,3 +1,10 @@
 export default function Header() {
-  return <h1> Header Component</h1>;
+  return (
+    <>
+      <header>
+        <h1>Sartre's List</h1>
+        <h2>Better-Dressed People</h2>
+      </header>
+    </>
+  );
 }
